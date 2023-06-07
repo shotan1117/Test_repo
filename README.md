@@ -7,3 +7,6 @@ Hello! NewWorld 私は西村祥汰です。
 ばーか、バーカ、ba-ka
 
 馬鹿ですが何か？
+
+AHAHAHAHAHAHAHAHAHAHA
+What do you means??
