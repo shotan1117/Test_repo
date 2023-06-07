@@ -10,3 +10,7 @@ Hello! NewWorld 私は西村祥汰です。
 
 AHAHAHAHAHAHAHAHAHAHA
 What do you means??
+
+
+Why don't you come with me?
+Ohh...
