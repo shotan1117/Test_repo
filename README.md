@@ -1,6 +1,5 @@
 # Test_repo
 テスト用リポジトリ
 
-mkdir training
-cd training
-
+Hello! NewWorld 私は西村祥汰です。
+よろしくお願いします。
